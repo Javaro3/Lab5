@@ -1,0 +1,8 @@
+D:\1 курс\ООП\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\1 курс\ООП\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\1 курс\ООП\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\1 курс\ООП\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\1 курс\ООП\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\1 курс\ООП\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\1 курс\ООП\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\1 курс\ООП\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
